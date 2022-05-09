@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Ukraine</h3>
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
 
-- 🌱 I’m currently learning **AWS, Tableau**
+- 🌱 I’m currently learning **AWS, Deep Learning**
 
 - 🎓 I'm studying in  Griffith College
 

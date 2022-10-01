@@ -3,7 +3,13 @@
 
 - 🌱 I’m currently learning **Jenkins**
 
+- ⚒️ Interested into DevOps technologies 
+
 - 🎓 Studying Bachelor of Science in Computing Science. Griffith College
 
 - 📫 How to reach me **ruslanpylypiuk@outlook.com**
+
+- 💬 How to message me **[My LinkedIn](https://www.linkedin.com/in/ruslan-pylypiuk)**
+
+
 

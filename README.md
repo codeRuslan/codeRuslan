@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently **preparing for Kubernetes certification (CKAD)**
 
-- ⚒️ Interested into DevOps technologies 
+- ⚒️ Interested into **DevOps technologies**
 
-- 🎓 Studying Bachelor of Science in Computing Science. Griffith College
+- 🎓 Studying as **Bachelor of Science in Computing Science. Griffith College**
 
-- 📄 Certified as AWS Certified Developer
+- 📄 Certified as **AWS Certified Developer**
 
 - 📫 How to reach me - **ruslanpylypiuk@outlook.com**
 
